@@ -16,4 +16,4 @@ At this point, you have to type in the folder and Country name. The above link a
 
 At this point, you have to type in the folder and Capital name. The above link already has that filled out.
 
-> `api/capital?capital=(Enter Capital Name)`
+> `api/capital?capital=(ENTER Capital Name)`
